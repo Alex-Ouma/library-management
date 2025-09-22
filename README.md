@@ -60,7 +60,7 @@ Members
 GET /api/members - List all members
 GET /api/members/:id - Get a specific member by ID
 POST /api/members - Create a new member
-Body: { "first_name": "John", "last_name": "Doe", "email": "john.doe@example.com", "join_date": "2023-01-01", "phone": "1234567890" }
+Body: { "first_name": "Alex", "last_name": "Ouma", "email": "alex2019ouma@gmail.com", "join_date": "2023-01-01", "phone": "1234567890" }
 
 
 PUT /api/members/:id - Update a member
